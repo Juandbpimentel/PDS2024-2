@@ -1,0 +1,3 @@
+public enum OnibusEstado {
+    CHEGOU_UFC, SAIU_UFC, CHEGOU_RODOVIARIA, SAIU_RODOVIARIA
+}
